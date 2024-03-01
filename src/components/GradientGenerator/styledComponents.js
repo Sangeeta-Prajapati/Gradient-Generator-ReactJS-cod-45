@@ -5,7 +5,7 @@ export const GradientGeneratorContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: linear-gradient(${props => props.gradientValue});
+  background-image: linear-gradient(${props => props.gradientValue});
   min-height: 100vh;
   font-family: 'Roboto';
 `
