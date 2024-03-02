@@ -25,7 +25,7 @@ export const ResponsiveContainer = styled.div`
 `
 
 export const Heading = styled.h1`
-  color: purple;
+  color: #ffffff;
   font-weight: bold;
   text-align: center;
   font-size: 24px;
@@ -39,7 +39,7 @@ export const DirectionsDescription = styled.p`
   font-weight: 500;
   font-size: 22px;
   line-height: 1.5;
-  color: plum;
+  color: #ffffff;
 `
 
 export const GradientDirectionList = styled.ul`
@@ -58,7 +58,7 @@ export const ColorsPickersDes = styled.p`
   font-weight: 500;
   font-size: 22px;
   line-height: 1.5;
-  color: brown;
+  color: #ffffff;
 `
 
 export const ColorsPickersContainer = styled.div`
@@ -77,11 +77,10 @@ export const CustomInputAndColorContainer = styled.div`
 export const ColorValue = styled.p`
   font-size: 18px;
   font-weight: 500;
-  color: purple;
+  color: #ffffff;
 `
 
 export const CustomInput = styled.input`
-  border: 1px solid red;
   width: 100px;
   height: 50px;
   background-color: transparent;

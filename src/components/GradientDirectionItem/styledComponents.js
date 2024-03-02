@@ -1,5 +1,5 @@
 // Style your elements here
-import styled from 'styled-components'
+import styled from 'styled-components/macro'
 
 export const ListItem = styled.li`
   width: 49%;
